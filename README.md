@@ -1,6 +1,8 @@
 # Model Context Provider CLI
 This repository contains a protocol-level CLI designed to interact with a Model Context Provider server. The client allows users to send commands, query data, and interact with various resources provided by the server.
 
+Video document: https://www.youtube.com/watch?v=9mciRwpcLNY
+
 ## Features
 - Protocol-level communication with the Model Context Provider.
 - Dynamic tool and resource exploration.
